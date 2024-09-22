@@ -6,13 +6,17 @@
 
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=purenimble&repo=isep-lapr1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="lapr1 Card">
+  <a href="https://github.com/purenimble/isep-lapr1" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=purenimble&repo=isep-lapr1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="lapr1 Card"></a>
 
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=purenimble&repo=isep-lapr2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="lapr2 Card">
+  <a href="https://github.com/purenimble/isep-lapr2" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=purenimble&repo=isep-lapr2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="lapr2 Card"></a>
 
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=purenimble&repo=isep-lapr3&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="lapr3 Card">
+  <a href="https://github.com/purenimble/isep-lapr3" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=purenimble&repo=isep-lapr3&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="lapr3 Card"></a>
 
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=purenimble&repo=isep-lapr4&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="lapr4 Card">
+  <a href="https://github.com/purenimble/isep-lapr4" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=purenimble&repo=isep-lapr4&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="lapr4 Card"></a>
 
   </div>
 
