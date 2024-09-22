@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=5C5C5C"/>
 
-<h2 align="center">Hi<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505"width="35" alt="Hand wave emoji" />!
-
 <section align="center">
 
   <h3>🤓 ISEP-LAPR Repos</h3>
